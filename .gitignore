@@ -1,2 +1,2 @@
-homework/data/.*
-.*/.ipynb_checkpoints/.*
+homework/data/*
+.ipynb_checkpoints
